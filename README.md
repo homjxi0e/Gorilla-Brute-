@@ -9,7 +9,7 @@ The owner of The idea | :white_check_mark:  |
 
 
 
-# This project is deceiving me getting privilege Meterpreter On All systems Linux
+# This project is deceiving me getting privilege root Meterpreter On All systems Linux
 # Go to file Put Script web delivery Metasploit > The formula python or php  
 # Take the web_delivery  On Text Which in the pictures
 
