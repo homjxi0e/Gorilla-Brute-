@@ -40,3 +40,11 @@ And she had hidden the word Root from Terminal
 
 # Here
 # ![screenshot from 2017-06-05 21-10-23](https://cloud.githubusercontent.com/assets/25440152/26807167/18d798a8-4a55-11e7-8b15-96a00915c17d.png)
+---------------------
+# 1
+![screenshot from 2017-06-06 01 59 17](https://cloud.githubusercontent.com/assets/25440152/26808289/028ebf84-4a5c-11e7-9262-e8170cd56b18.png)
+
+# 2 Boom Linux !
+![screenshot from 2017-06-05 22-01-43](https://cloud.githubusercontent.com/assets/25440152/26808334/32fe96f8-4a5c-11e7-826e-39967e34c783.png)
+
+
